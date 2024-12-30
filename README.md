@@ -1,7 +1,6 @@
-# Titolo Principale
-Ciao sono Ivan Saccutelli
-
-Junior web developer
+# Ciao sono Ivan Saccutelli
+---
+## Junior web developer
 
 - 👋 Hi, I’m @Saccu19
 - 👀 I’m interested in ...
