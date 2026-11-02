@@ -23,7 +23,6 @@ I'm interested in software architecture, APIs, databases, and exploring differen
 - Cloud technologies and infrastructure
 - Data analysis and automation
 
---->
 <!---
 Saccu19/Saccu19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
