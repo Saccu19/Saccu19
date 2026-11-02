@@ -1,11 +1,27 @@
-# Ciao 👋 sono Ivan Saccutelli
-## Junior web developer
-- 👋 Sono uno studente di ingegneria informatica presso la facoltà di Ancona 
-- 👀 Appassionato di motori e codici... 
-- 🌱 Attualmenmte studio il cloud di AWS dati gli enormi vantaggi che offre
-- 💞️ Sono aperto a collaborazioni
-<!--
-- 📫 Per contattarmi puoi andare sul mio sito o direttamente a questa mail info@saccutelliwebsolutions.com
+# Hey, I'm Ivan 👋
+
+I'm a software developer from Italy, mainly focused on backend development and web applications.
+
+I work with **C# and .NET**, and I also enjoy building things with **TypeScript, Node.js, and React**.
+
+I'm interested in software architecture, APIs, databases, and exploring different approaches to building and organizing software.
+
+### 🛠️ Tech stack
+
+**Languages**
+- C#, TypeScript, JavaScript, SQL
+
+**Backend**
+- .NET, Node.js, Fastify
+
+**Frontend**
+- React, HTML, CSS
+
+### 🌱 Currently exploring
+
+- Backend architectures and design patterns
+- Cloud technologies and infrastructure
+- Data analysis and automation
 
 --->
 <!---
